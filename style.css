@@ -112,4 +112,6 @@ div{
 }
 .primero{
     display: flex;
+    flex-direction: column;
 }
+
